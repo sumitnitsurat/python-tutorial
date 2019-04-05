@@ -1,2 +1,2 @@
-# python-tutorial
-python tutorial for beginners 
+# tutorial
+web components tutorial for beginners 
